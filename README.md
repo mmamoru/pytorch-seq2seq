@@ -1,2 +1,2 @@
 # pytorch-seq2seq
-test
+english chatbot with sequence-to-sequence model
