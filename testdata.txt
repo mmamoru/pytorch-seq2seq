@@ -11,5 +11,5 @@
 <<<<<<< HEAD
 focal_loss_model
 =======
-これ は 新し い ファイル です か ?	はい 、 focal_loss_model です 。
->>>>>>> a71cd07b0252c419942c36b0c7b8065772a693fe
+これ は 新し い ファイル です か ?	はい 、 focal_loss_model-mecab です 。
+
