@@ -11,5 +11,7 @@
 <<<<<<< HEAD
 focal_loss_model
 =======
+<<<<<<< HEAD
 これ は 新し い ファイル です か ?	はい 、 focal_loss_model です 。
+
 
