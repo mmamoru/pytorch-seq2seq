@@ -12,6 +12,6 @@
 focal_loss_model
 =======
 <<<<<<< HEAD
-これ は 新し い ファイル です か ?	はい 、 focal_loss_model です 。
+これ は 新し い ファイル です か ?	はい 、 ja-seq2seq-LSTM です 。
 
 
